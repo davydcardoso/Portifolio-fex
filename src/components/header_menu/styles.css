@@ -1,0 +1,13 @@
+.container-menu {
+    width: 100%;
+    height: 50px;
+    box-shadow: 0 0 1em rgba(177, 184, 172, 0.412);
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.title-menu {
+    font-size: 20px;
+}
