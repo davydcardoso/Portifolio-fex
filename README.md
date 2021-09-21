@@ -1,18 +1,18 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/davydcardoso/Stream-NodeJs">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/davydcardoso/Portifolio-fex">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/davydcardoso/Stream-NodeJs">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/davydcardoso/Portifolio-fex">
   
-  <a href="https://github.com/davydcardoso/Stream-NodeJs/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/davydcardoso/Stream-NodeJs">
+  <a href="https://github.com/davydcardoso/Portifolio-fex/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/davydcardoso/Portifolio-fex">
   </a>
 
-  <a href="https://github.com/davydcardoso/Stream-NodeJs/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/davydcardoso/Stream-NodeJs">
+  <a href="https://github.com/davydcardoso/Portifolio-fex/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/davydcardoso/Portifolio-fex">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-AGLP-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 
@@ -29,9 +29,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Typescript](https://www.typescriptlang.org/)
-- [Node.JS](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [TYPEORM](https://typeorm.io/#/)
+- [ReactJs](https://pt-br.reactjs.org/)
 
 ## :notebook: Executando
 
@@ -39,10 +37,10 @@ Dentro do **README** de cada subpasta do projeto é detalhado como executar as a
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:davydcardoso/Stream-NodeJs.git
+$ git clone git@github.com:davydcardoso/Portifolio-fex.git
 
-# Acesse a pasta do projeto no seu terminal/cmd (FrontEnd)
-$ cd frontend
+# Acesse a pasta do projeto no seu terminal/cmd 
+$ cd Portifolio-fex
 
 # Instale as dependências
 $ yarn
