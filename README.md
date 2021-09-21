@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :notebook: Executando
 
-Dentro do **README** de cada subpasta do projeto é detalhado como executar as aplicações separadamente.
+Projeto pessoal desenvolvido para a empresa Faxina Express. (Codigo fonte do projeto publicado com a permissão do CEO da Empresa)
 
 ```bash
 # Clone este repositório
