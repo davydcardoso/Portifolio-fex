@@ -1,8 +1,8 @@
+import React from "react";
+import UserRoutes from "./user.routes";
 
 const Routes: React.FC = () => {
-    return (
-        <h1>Olá mundo!</h1>
-    )
+    return <UserRoutes />
 }
 
 export default Routes;
