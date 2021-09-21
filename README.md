@@ -4,7 +4,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/davydcardoso/Portifolio-fex">
   
-  <a href="https://github.com/davydcardoso/Portifolio-fex/commits/master">
+  <a href="https://github.com/davydcardoso/Portifolio-fex/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/davydcardoso/Portifolio-fex">
   </a>
 
