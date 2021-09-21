@@ -12,7 +12,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/davydcardoso/Portifolio-fex">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-AGPL-brightgreen">
 </p>
 
 
@@ -61,7 +61,7 @@ $ yarn start
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença AGPL. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
