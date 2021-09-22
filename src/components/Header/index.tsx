@@ -23,7 +23,7 @@ const Header: React.FC = () => {
                                     href='#features'
                                     className='btn btn-custom btn-lg page-scroll'
                                 >
-                                    Seja Bem Vindo
+                                    Baixe nosso Aplicativo
                                 </a>{' '}
                             </div>
                         </div>

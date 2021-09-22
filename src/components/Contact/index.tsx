@@ -164,9 +164,9 @@ const Contact: React.FC = () => {
             <div id='footer'>
                 <div className='container text-center'>
                     <p>
-                        &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-                        <a href='http://www.templatewire.com' rel='nofollow'>
-                            TemplateWire
+                        &copy; 2021 Faxina Express. Design by{' '}
+                        <a href='http://davydkewen.dev' rel='nofollow'>
+                            Davyd Kewen
                         </a>
                     </p>
                 </div>

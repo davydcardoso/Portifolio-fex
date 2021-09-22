@@ -7,7 +7,7 @@ const UserRoutes: React.FC = () => {
     return (
         <BrowserRouter>
             <Switch>
-                <Route component={Index} exact={true} path="/" />
+                <Route component={Index} path="/" />
             </Switch>
         </BrowserRouter>
     );
